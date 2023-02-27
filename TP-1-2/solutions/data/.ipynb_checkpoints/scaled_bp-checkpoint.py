@@ -1,0 +1,5 @@
+box = plt.boxplot(mars_scaled, patch_artist=True)
+plt.setp(box["boxes"], facecolor="mediumorchid")
+plt.title("Box plots of all scaled variables")
+plt.tight_layout()
+plt.show()
