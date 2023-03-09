@@ -7,11 +7,12 @@ Resource for the clustering tutorials of the "Data Analysis" course
 
 ## Episod 4, 5, 6 - Clustering 
 
-**TP Mars - [Large multi-spectral image segmentation: Representing the geological diversity of the surface of Mars](TP-Mars/TP_Mars.ipynb)** <br>
-_But_ : Apply the different concepts studied during the course on clustering on _quantitative_ data, using [Python](https://www.python.org/) language. More precisely, apply clustering to pixels of a multi-spectral image representing the surface of Mars. <br>
+**TP 1 & 2 - [Large multi-spectral image segmentation: Representing the geological diversity of the surface of Mars](TP-4-5/TP_MARS.ipynb)** <br>
+_But_ : Apply the different concepts studied during the course on clustering on _quantitative_ data, in [python](https://www.python.org/)
+More precisely, apply clustering to pixels of a multi-spectral image representing the surface of Mars. <br>
 
-**TP Wine - [Study of different physico-chemical measurements on wine](TP-Wine/TP_wine.ipynb)** <br>
-_But_ : Apply the different concepts studied during the course on clustering on _quantitative_ data, using [R](https://www.r-project.org/) language. <br>
+**TP 3 - TBA** <br>
+_But_ : Apply the different concepts studied during the course on clustering on _quantitative_ data, in [R](https://cran.r-project.org/) <br>
 
 
 
