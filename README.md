@@ -1,5 +1,5 @@
 # 4MA - Analyse de données
-Resource for the clustering tutorials of the "Data Analysis" course
+Resources for the clustering part of the data analysis course.
 
 [Moodle course page](https://moodle.insa-toulouse.fr/course/view.php?id=1340)
 
